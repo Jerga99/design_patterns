@@ -31,7 +31,7 @@ nav h1 {
   background-color: #4e77c3;
 }
 
-.current-time-container {
+.results-container {
   height: 350px;
 }
 
@@ -41,7 +41,7 @@ nav h1 {
   padding: 20px;
 }
 
-#time {
+#expenses {
   font-size: 80px;
   text-align: center;
   margin-top: 100px;
